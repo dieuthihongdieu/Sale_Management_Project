@@ -196,3 +196,8 @@ tables.
 
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 ![POWER_BI](https://user-images.githubusercontent.com/88467188/131869407-49a2786e-d7b5-4d9a-9aaa-b17800c56509.png)
+
+<p>I publish with amazing things, anyone can check out ! </p>  
+
+[**Power BI online**](https://app.powerbi.com/view?r=eyJrIjoiYjE1Y2Q5NjMtMjg5OC00OWU1LWFjNjUtNGNjNTllN2E3OTc4IiwidCI6IjM1ZTE1M2EzLTViYzgtNGZjMC04YmZhLTVkNDFhZmQ0NDU0NSIsImMiOjN9)
+
