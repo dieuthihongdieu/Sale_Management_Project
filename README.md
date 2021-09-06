@@ -2,7 +2,7 @@
 
 <p> This case I receive a mail from sales mananager to some requests. He wants  to improve his internet sales reports and want to move from static reports to visual dashboards.
 Essentially, His teams want to focus it on how much they have sold of what products, to which clients and how it has been over time. Seeing as each sales person works on different products and customers it would be beneficial to be able to filter them also. They also measure our numbers against budget so he added that in a spreadsheet so they can compare our values against performance. 
-The budget is for 2021 and they usually look 2 years back in time when we do analysis of sales.
+The budget is for 2021 and they usually look 2 years back in time when they do analysis of sales.
 </p>
 
 ## **Table of Content:**
@@ -186,7 +186,7 @@ SELECT
 FROM 
   [AdventureWorksDW2019].[dbo].[FactInternetSales]
 WHERE 
-  LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -2 -- Ensures we always only bring two years of date from extraction.
+  LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -2 -- Ensures always only bring two years of date from extraction.
 ORDER BY
   OrderDateKey ASC
 
